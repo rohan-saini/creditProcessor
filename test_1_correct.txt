@@ -1,0 +1,4 @@
+Bob: $1
+Lisa: $-23
+Quincy: error
+Tom: $0

@@ -1,0 +1,4 @@
+Aaron: error
+Alice: error
+Charles: error
+Zion: $500

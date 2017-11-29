@@ -1,0 +1,11 @@
+Add Alice 10000000000 $50
+Add Zion 5176619902066947 $1000
+Add Charles 10101010101098 $500
+Add Aaron 12334234234 $200
+Charge Zion $1000
+Charge Zion $5
+Credit Zion $500
+Charge Alice $10
+Charge Alice $20
+Credit Buster $500
+Charge Charles $350
