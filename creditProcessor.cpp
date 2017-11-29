@@ -89,6 +89,7 @@ int main(int argc, const char * argv[]) {
         completeProcesses(inputStream, client_map);
     }
     
+    // printing the summary
     summary(client_map);
     return 0;
 }
